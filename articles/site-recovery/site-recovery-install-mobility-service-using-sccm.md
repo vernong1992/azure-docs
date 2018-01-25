@@ -50,7 +50,7 @@ This article provides you an example of how you can use System Center Configurat
 4. Copy the **MobSvc.passphrase** file into the **MobSvcWindows** folder on your network share.
 5. Browse to the installer repository on the configuration server by running the following command:
 
-   `cd %ProgramData%\ASR\home\svsystems\puhsinstallsvc\repository`
+   `cd %ProgramData%\ASR\home\svsystems\pushinstallsvc\repository`
 
 6. Copy the **Microsoft-ASR\_UA\_*version*\_Windows\_GA\_*date*\_Release.exe** to the **MobSvcWindows** folder on your network share.
 7. Copy the following code, and save it as **install.bat** into the **MobSvcWindows** folder.
